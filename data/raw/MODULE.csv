@@ -1,0 +1,40 @@
+id_module,type_module,nom_module,capacite,statut_module,zone_colonie,niveau_risque
+MOD-HAB-001,Habitat,Habitat 1,28,OPERATIONNEL,Est,FAIBLE
+MOD-HAB-002,Habitat,Habitat 2,15,operationnel,Nord,ELEVE
+MOD-HAB-003,Habitat,Habitat 3,25,OP,Inconnue,FAIBLE
+MOD-HAB-004,Habitat,Habitat 4,8, MAINTENANCE ,Sud,low
+MOD-HAB-005,Habitat,Habitat 5,27,maintenence,Sud,ELEVE
+MOD-HAB-006,Habitat,Habitat 6,28,OPERATIONNEL,Ouest,FAIBLE
+MOD-HAB-007,Habitat,Habitat 7,22,OPERATIONNEL,Nord,FAIBLE
+MOD-HAB-008,Habitat,Habitat 8,21,OPERATIONNEL,Sud,FAIBLE
+MOD-HAB-009,Habitat,Habitat 9,18,OPERATIONNEL,Ouest,FAIBLE
+MOD-HAB-010,Habitat,Habitat 10,19,OPERATIONNEL,Central,HIGH
+MOD-HAB-011,Habitat,Habitat 11,9,OPERATIONNEL,Central,FAIBLE
+MOD-HAB-012,Habitat,Habitat 12,20,OPERATIONNEL,Est,ELEVE
+MOD-MEDI-001,Médical,Médical 1,13,OPERATIONNEL,Nord,FAIBLE
+MOD-MEDI-002,Médical,Médical 2,9,op,Nord,FAIBLE
+MOD-AGRI-001,Agriculture,Agriculture 1,5,OPERATIONNEL,Ouest,ELEVE
+MOD-AGRI-002,Agriculture,Agriculture 2,13,OPERATIONNEL,Est, medium 
+MOD-AGRI-003,Agriculture,Agriculture 3,10,OPERATIONNEL,Nord,ELEVE
+MOD-AGRI-004,Agriculture,Agriculture 4,7,OPERATIONNEL,Sud,FAIBLE
+MOD-AGRI-005,Agriculture,Agriculture 5,16,OPERATIONNEL,Central,FAIBLE
+MOD-ENER-001,Énergie,Énergie 1,12,OPERATIONNEL,Nord,FAIBLE
+MOD-ENER-002,Énergie,Énergie 2,3,OPERATIONNEL,Ouest,MOYEN
+MOD-ENER-003,Énergie,Énergie 3,4,OPERATIONNEL,Central,medium
+MOD-ENER-004,Énergie,Énergie 4,12,OPERATIONNEL,Ouest,MOYEN
+MOD-RECH-001,Recherche,Recherche 1,16,OPERATIONNEL,Sud,FAIBLE
+MOD-RECH-002,Recherche,Recherche 2,10,OPERATIONNEL,Ouest,ELEVE
+MOD-RECH-003,Recherche,Recherche 3,14,OPERATIONNEL,Sud,ELEVE
+MOD-RECH-004,Recherche,Recherche 4,17,OPERATIONNEL,Nord,FAIBLE
+MOD-RECH-005,Recherche,Recherche 5,6,OPERATIONNEL,Ouest,ELEVE
+MOD-RECH-006,Recherche,Recherche 6,4,OPERATIONNEL,Central,high
+MOD-MAIN-001,Maintenance,Maintenance 1,18,OPERATIONNEL,Central,FAIBLE
+MOD-MAIN-002,Maintenance,Maintenance 2,5,OPERATIONNEL,Central,MOYEN
+MOD-MAIN-003,Maintenance,Maintenance 3,12,OPERATIONNEL,Ouest,FAIBLE
+MOD-STOC-001,Stockage,Stockage 1,16,OPERATIONNEL,Est,ELEVE
+MOD-STOC-002,Stockage,Stockage 2,7,OPERATIONNEL,Nord,ELEVE
+MOD-STOC-003,Stockage,Stockage 3,11,OPERATIONNEL,Central,ELEVE
+MOD-STOC-004,Stockage,Stockage 4,8,OPERATIONNEL,Sud,ELEVE
+MOD-TRAN-001,Transport,Transport 1,18,M,Central,Low
+MOD-TRAN-002,Transport,Transport 2,17,OPERATIONNEL,Est,MOYEN
+MOD-COMM-001,Commandement,Commandement 1,9,OPERATIONNEL,Central,FAIBLE

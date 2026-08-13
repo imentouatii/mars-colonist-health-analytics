@@ -1,0 +1,5 @@
+id_scenario,nom_scenario,type_evenement,niveau_gravite
+SCEN-001,Nominal / Routine,Opérationnel,FAIBLE
+SCEN-002,Tempête de poussière Alpha,Environnemental,ELEVÉ
+SCEN-003,Chute de pression Module,Technique,CRITIQUE
+SCEN-004,Sortie Extra-Véhiculaire (EVA),Opérationnel,MOYEN
