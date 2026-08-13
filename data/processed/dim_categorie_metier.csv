@@ -1,0 +1,13 @@
+CAT-01,Médecin,Santé,5
+CAT-02,Infirmier,Santé,10
+CAT-03,Biologiste,Santé,12
+CAT-04,Ingénieur énergie,Technique,20
+CAT-05,Technicien maintenance,Technique,38
+CAT-06,Scientifique,Recherche,25
+CAT-07,Agronome,Agriculture,20
+CAT-08,Pilote transport,Transport,15
+CAT-09,Informaticien data,IT,20
+CAT-10,Sécurité,Sécurité,18
+CAT-11,Administration,Support,25
+CAT-12,Commandement,Commandement,5
+CAT-13,Support polyvalent,Support,37
