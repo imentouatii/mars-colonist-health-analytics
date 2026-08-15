@@ -9,7 +9,7 @@ This document provides a comprehensive technical breakdown of the datasets used 
 
 Below is the entity-relationship diagram (ERD) of the staged and cleaned data warehouse schema in PostgreSQL:
 
-!![Move to Mars PostgreSQL Schema](./assets/schema.png)
+![Move to Mars PostgreSQL Schema](./assets/schema.png)
 
 > 💡 **Note:** Primary keys (`id_*`) enforce entity integrity across all dimension and fact tables, while foreign key relationships connect colonist vitals, scenarios, and module assignments into a unified star schema.
 
